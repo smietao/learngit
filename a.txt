@@ -4,7 +4,4 @@ shuojun is my friend.
 heiheihei.
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
-=======
-Creating a new branch is quick AND simple.
 
->>>>>>> new1
